@@ -1,0 +1,1 @@
+select ProductID, ProductName, UnitPrice From Products Order by UnitPrice ASC;
